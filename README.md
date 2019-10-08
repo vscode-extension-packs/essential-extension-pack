@@ -1,5 +1,10 @@
 # Visual Studio Code Essential Extension Pack
 
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/)
+[![Downloads](https://img.shields.io/vscode-marketplace/d/magnobiet.essential-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.essential-extension-pack.svg?label=Essential%20Extension%20Pack)
+[![Rating](https://img.shields.io/vscode-marketplace/r/magnobiet.essential-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.essential-extension-pack.svg?label=Essential%20Extension%20Pack)
+[![Essential%20Extension%20Pack](https://img.shields.io/vscode-marketplace/v/magnobiet.essential-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.essential-extension-pack.svg?label=Essential%20Extension%20Pack)
+
 This is an extension pack for Visual Studio Code with some essential extensions that are helpful for development in general.
 
 ## Extensions included
