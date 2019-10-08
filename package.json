@@ -1,0 +1,49 @@
+{
+  "name": "essential-extension-pack",
+  "displayName": "Essential Extension Pack",
+  "description": "This is an extension pack for Visual Studio Code with some essential extensions that are helpful for development in general.",
+  "version": "1.0.0",
+  "publisher": "magnobiet",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "alefragnani.project-manager",
+    "christian-kohler.path-intellisense",
+    "cssho.vscode-svgviewer",
+    "eamodio.gitlens",
+    "eamodio.toggle-excluded-files",
+    "EditorConfig.EditorConfig",
+    "IBM.output-colorizer",
+    "mikestead.dotenv",
+    "ms-vsliveshare.vsliveshare",
+    "Shan.code-settings-sync",
+    "SirTori.indenticator",
+    "sleistner.vscode-fileutils",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "wayou.vscode-todo-highlight",
+    "wmaurer.change-case"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#24292e",
+    "theme": "dark"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extension-packs/essential-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extension-packs/essential-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extension-packs/essential-extension-pack#readme"
+}
